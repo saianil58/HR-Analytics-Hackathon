@@ -1,1 +1,3 @@
-# hr_anallytics_AV_competition
+# HR ANALYTICS
+
+Analytics Vidhya competetion
